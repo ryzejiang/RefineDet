@@ -1,6 +1,7 @@
 # Single-Shot Refinement Neural Network for Object Detection
 
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+**Forked from [Shifeng Zhang](http://www.cbsr.ia.ac.cn/users/sfzhang/), thanks a lot.**
+
 
 By [Shifeng Zhang](http://www.cbsr.ia.ac.cn/users/sfzhang/), [Longyin Wen](http://www.cbsr.ia.ac.cn/users/lywen/), [Xiao Bian](https://sites.google.com/site/cvbian/), [Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/), [Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/).
 
@@ -50,7 +51,7 @@ Please cite our paper in your publications if it helps your research:
 ### Installation
 1. Get the code. We will call the cloned directory as `$RefineDet_ROOT`.
   ```Shell
-  git clone https://github.com/sfzhang15/RefineDet.git
+  git clone https://github.com/ryzejiang/RefineDet.git
   ```
 
 2. Build the code. Please follow [Caffe instruction](http://caffe.berkeleyvision.org/installation.html) to install all necessary packages and build it.
